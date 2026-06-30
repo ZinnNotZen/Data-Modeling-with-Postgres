@@ -168,15 +168,11 @@ JOIN users u ON sp.user_id = u.user_id
 JOIN songs s ON sp.song_id = s.song_id
 JOIN artists a ON sp.artist_id = a.artist_id
 LIMIT 10;
+```
 
 <img width="1228" height="607" alt="Screenshot 2026-06-30 at 5 01 56 PM" src="https://github.com/user-attachments/assets/9b95dad1-6d08-46d3-9c95-e0cd09d8761a" />
 
 <img width="666" height="797" alt="Screenshot 2026-06-30 at 5 02 11 PM" src="https://github.com/user-attachments/assets/9375b628-5015-4ab9-af91-75dd59916ec4" />
-
-
-```
-
-
 
 ---
 
